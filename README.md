@@ -2,6 +2,9 @@
 ## Overview
 This project is a racing game built using Three.js. It features interactive gameplay, dynamic physics, power-ups, and lap tracking. The game utilizes WebGL for rendering 3D objects and Firebase for leaderboard management.
 
+### View a demo at this link
+https://youtu.be/c520gc-XtB4
+
 ## Features
 - Dynamic Racing Tracks: Procedurally generated maps with checkpoints, obstacles, and power-ups.
 - Interactive Gameplay:
