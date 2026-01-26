@@ -50,6 +50,20 @@ npx vite
 - S (Backward)	Reverse
 - R	Reset game
 
+## Login
+Name is associated with Firebase database entry and tracks high scores.
+<img width="847" height="552" alt="image" src="https://github.com/user-attachments/assets/4528175f-1952-4aa3-8d57-9789d0fffc04" />
+
+## Level Select
+Once a user is logged in, they can select from 3 different levels: easy, medium, and hard.
+The difficulties are dependent on the number of turns in the course and the number of asteroid obstacles in the way.
+
+<img width="931" height="492" alt="Screenshot 2026-01-26 153300" src="https://github.com/user-attachments/assets/c77b6ac6-90be-43ba-beda-d3d4620acc43" />
+
+## Game Play
+Using the controls, players can drive around the race track supported by power ups, booster orbs, and a map. Moving asteroids and narrow roads challenge players to dodge obstacles and stay on course.
+<img width="2139" height="1148" alt="image" src="https://github.com/user-attachments/assets/4c13f81d-9eda-4c48-a9f0-1def255ad336" />
+
 
 ## Code Structure
 ### Main Components
@@ -86,6 +100,8 @@ lapTimes.push(elapsedTime - prevTime);
 ## Assets
 ### 3D Models: 
 - Car model loaded via GLTF.
+<img width="209" height="128" alt="image" src="https://github.com/user-attachments/assets/4f9569c7-fe2f-4468-85c5-1316229ad60f" />
+
 ### Textures:
 - Road texture (road-texture-4k-02.jpg)
 - Power-up texture (powerUp1Texture.png)
